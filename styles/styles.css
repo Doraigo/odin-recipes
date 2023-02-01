@@ -8,8 +8,9 @@ body {
     text-align: center;
 }
 
-.text .recipe {
+.text {
     font-size: 20px;
+    color: white;
 }
 
 .no-list {
@@ -23,6 +24,7 @@ body {
     width: 50%;
 }
 
-.strong {
-    font-weight: bold;
+.recipe {
+    width: 300px;
+    height: auto;
 }
