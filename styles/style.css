@@ -25,9 +25,11 @@ body {
 .recipe {
     width: 300px;
     height: auto;
+    margin: 15px;
 }
 
 .image {
     width: 450px;
     height: auto;
+    margin: 15px;
 }
